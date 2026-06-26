@@ -16,6 +16,8 @@
 
 ## 💻 Pré-requisitos
 
+    alert: "Aviso: O banco de dados deste projeto encontra-se inativo no momento."
+
 Antes de começar, verifique se você possui:
 
 * **Ambiente:** Node.js (versão LTS).
