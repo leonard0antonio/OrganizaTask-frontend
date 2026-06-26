@@ -24,6 +24,7 @@ Antes de começar, verifique se você possui:
 * **Gerenciador de Pacotes:** NPM ou Yarn.
 * **Ferramentas:** VS Code com extensões recomendadas (ESLint/Prettier).
 * **Conexão:** Acesso à API do backend (OrganizaTask-API) rodando localmente ou em staging.
+https://github.com/leonard0antonio/OrganizaTask-api
 
 ## 🛠️ Stack Tecnológica
 
